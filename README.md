@@ -20,7 +20,7 @@ List of computer science curricula that is typically taught at a degree level in
 ## Programming
 
 ### Java
-- [Java Programming MOOC by University of Helsinki]((https://java-programming.mooc.fi/))
+- [Java Programming MOOC by University of Helsinki](https://java-programming.mooc.fi/)
 - [Full Java Course By Bro Code - YouTube](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 - [Coding with John Youtube Channel](https://www.youtube.com/c/CodingwithJohn/videos)
 -  [Oracle Tutorials](https://docs.oracle.com/javase/tutorial)
@@ -41,5 +41,5 @@ List of computer science curricula that is typically taught at a degree level in
 - [freeCodeCamp](https://www.freeCodeCamp.org)
 - [Another Useful reddit thread](https://www.reddit.com/r/learnprogramming/comments/m5fz6w/resources_to_learn_web_development_with_awesome/)
 - [The Net Ninja Youtube Channel](https://www.youtube.com/c/TheNetNinja)
-- [Fireship Youtube Channel]((https://www.youtube.com/c/Fireship))
+- [Fireship Youtube Channel](https://www.youtube.com/c/Fireship)
 - [Web Dev Simplified Youtube Channel](https://www.youtube.com/c/WebDevSimplified)
