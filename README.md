@@ -1,6 +1,6 @@
 ﻿# Free Resources for learning CS
 
-The internet is a wonderful place and you should not need to be spending money to learn something. Below is a list of ***completely free*** resources to learn computer science and programming documented for myself and anyone else who might find it useful.
+The internet is a wonderful place and you should not need to be spending money to learn something. This is a curated list of ***completely free*** resources to learn computer science and programming documented for myself and anyone else who might find it useful.
 
 ## General
 List of computer science curricula that is typically taught at a degree level in university.
@@ -14,16 +14,18 @@ List of computer science curricula that is typically taught at a degree level in
 ## Algorithms and Data Structures
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Technical Interview CheatSheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+- [Coding interview University](https://github.com/jwasham/coding-interview-university)
 - [algodeck](https://github.com/teivah/algodeck)
 
 
 ## Programming
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ### Java
 - [Java Programming MOOC by University of Helsinki](https://java-programming.mooc.fi/)
 - [Full Java Course By Bro Code - YouTube](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 - [Coding with John Youtube Channel](https://www.youtube.com/c/CodingwithJohn/videos)
--  [Oracle Tutorials](https://docs.oracle.com/javase/tutorial)
+- [Oracle Tutorials](https://docs.oracle.com/javase/tutorial)
 
 ### Python
 
